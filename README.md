@@ -1,16 +1,14 @@
-# draggable_ock_app
+# Reverse Minesweeper
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Steps to run
 
-A few resources to get you started if this is your first Flutter project:
+- Make Sure you have latest Flutter installed.
+- Clone the repo
+- Run flutter pub get in Terminal
+- Run flutter run in Terminal
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Currently this app only runs on Android devices. iOS export requires proper testing devices added to the dev account to run.
